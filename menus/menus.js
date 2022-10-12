@@ -11,6 +11,9 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │🌐 Site: https://www.sinhogamer.com
 ╎👥 GRUPO: https://chat.whatsapp.com/HLNek7xLhWZ1K5Qejgj0sf
 ╎⬇️ App https://play.google.com/store/apps/details?id=com.sinho.mods
+╎Abaixo está o menu...
+╎Clique em ler mais... para visualizar
+╎Por completo!
 ╰──────────┐
 ╭──────────┴─┐
 │ MENUS
@@ -24,6 +27,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Convite (link do grupo)
 │✾▹ ${prefix}Pack
 │✾▹ ${prefix}Mods
+│✾▹ ${prefix}Aplicativo
+│✾▹ ${prefix}Amizades
 ╰──────────┐
 ╭──────────┴─┐
 │ FIGURINHAS
@@ -40,8 +45,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Toimg (MARCAR-FIGU)
 │✾▹ ${prefix}Togif (MARCAR-FIGU)
 │✾▹ ${prefix}Roubar (TEXT/TEXT)
-╎✾▹ ${prefix}Emojimix 🤨+😏
-╎✾▹ ${prefix}Emoji 🤨
+│✾▹ ${prefix}Emoji 😏/whatsapp
+│✾▹ ${prefix}Emojimix 😉+🙂
 ╎✾▹ ${prefix}Figurinhas (memes pack 1)
 ╎✾▹ ${prefix}Figaleatoria
 ╎✾▹ ${prefix}Telesticker (Link pack de fig telegram)
@@ -62,6 +67,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Playmp4 (NOME) 
 │✾▹ ${prefix}Ytsearch (NOME)
 │✾▹ ${prefix}Pinterest (NOME)
+│✾▹ ${prefix}Mercadolivre (NOME)
 │✾▹ ${prefix}Gimage (NOME)
 │✾▹ ${prefix}Ytmp4 (LINK) 
 │✾▹ ${prefix}Ytmp3 (LINK) 
@@ -92,7 +98,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Clima (CIDADE SEM ACENTO)
 ╰──────────┐
 ╭──────────┴─┐
-│ JOGOS/QUIZ
+│ JOGOS/DIVERSÃO
 ├────────────
 │✾▹ ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
 │✾▹ ${prefix}Jogodavelha (@MARCAR) 
@@ -101,6 +107,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Quizanimais 1 / 0
 │✾▹ ${prefix}Anagrama 1 / 0
 │✾▹ ${prefix}Dado
+│✾▹ ${prefix}Roleta
+│✾▹ ${prefix}Roleta2
+│✾▹ ${prefix}Roletarussa (Vai banir 1)
+│✾▹ ${prefix}Simi (FALE-ALGO)  
 ╰──────────┐
 ╭──────────┴─┐
 │ COMANDOS/BÁSICOS
@@ -108,11 +118,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Gtts (LINGUAGEM + TEXTO)
 │✾▹ ${prefix}Traduzir Hello 
 │✾▹ ${prefix}Tagme 
-│✾▹ ${prefix}Emoji 😏/whatsapp
-│✾▹ ${prefix}Emojimix 😉+🙂
 │✾▹ ${prefix}Tabela (LETRAS) 
 │✾▹ ${prefix}Conselhobiblico
-│✾▹ ${prefix}Simi (FALE-ALGO)  
 │✾▹ ${prefix}Perfil
 │✾▹ ${prefix}Calcular 1 + 1
 │✾▹ ${prefix}Fazernick (NICK)
@@ -148,6 +155,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}thighs
 │✾▹ ${prefix}yuri
 │✾▹ ${prefix}zettai
+│✾▹ ${prefix}loli
 ╰──────────┘
 `
 }

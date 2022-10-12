@@ -47,6 +47,8 @@ const gitdobot = (prefix) => {
 
 🕹️ GTA SAN E OUTROS: https://www.sinhogamer.com/search?q=Gta&m=1
 
+🕹️ SUPER SUS: https://www.sinhogamer.com/2022/06/super-sus-mod-apk-dinheiro-infinito.html
+
 🕹️ FTS 2023: https://www.sinhogamer.com/2018/07/como-baixar-fts-19-android-2018.html
 
 🕹️ STUMBLER GUYS MOD: https://www.sinhogamer.com/2020/11/stumble-guys-v016-apk-mod-skins.html
@@ -55,7 +57,7 @@ const gitdobot = (prefix) => {
 
 🕹️ BitLife Br MOD: https://www.sinhogamer.com/2020/11/bitlife-life-simulator-v1342-apk-mod.html
 
-🕹️ OUTROS 2.164 MODS: https://sinhogamer.com
+🕹️ OUTROS 2172 MODS: https://sinhogamer.com
 
 
 *Extras* 🎁
