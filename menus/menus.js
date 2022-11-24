@@ -57,6 +57,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Bug (DIGA) 
 │✾▹ ${prefix}Sugestao (DIGA) 
 │✾▹ ${prefix}Avalie (ELOGIE) 
+│✾▹ ${prefix}Reportar (DENUNCIA) 
 ╰──────────┐
 ╭──────────┴─┐
 │ PESQUISAS/BAIXAR
@@ -95,7 +96,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Eurohoje
 │✾▹ ${prefix}Converter (Dolar/Euro + valor)
 │✾▹ ${prefix}Noticias
+│✾▹ ${prefix}Noticias2
+│✾▹ ${prefix}Covid
 │✾▹ ${prefix}Clima (CIDADE SEM ACENTO)
+│✾▹ ${prefix}Signo (NOME DO SIGNO)
 ╰──────────┐
 ╭──────────┴─┐
 │ JOGOS/DIVERSÃO
@@ -109,7 +113,14 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Dado
 │✾▹ ${prefix}Roleta
 │✾▹ ${prefix}Roleta2
+│✾▹ ${prefix}Tiro
+│✾▹ ${prefix}Tiro2
+│✾▹ ${prefix}futebol
+│✾▹ ${prefix}futebol2
+│✾▹ ${prefix}futebols2
 │✾▹ ${prefix}Roletarussa (Vai banir 1)
+│✾▹ ${prefix}Morte
+│✾▹ ${prefix}Eununca (está em teste)
 │✾▹ ${prefix}Simi (FALE-ALGO)  
 ╰──────────┐
 ╭──────────┴─┐
@@ -126,36 +137,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Printsite
 │✾▹ ${prefix}Correio (NUMERO COM +55/TEXTO)
 │✾▹ ${prefix}Bot
-╰──────────┐
-╭──────────┴─┐
-│ HENTAI (+18)
-├────────────
-│✾▹ ${prefix}hentai
-│✾▹ ${prefix}ahegao
-│✾▹ ${prefix}ass
-│✾▹ ${prefix}bdsm
-│✾▹ ${prefix}blowjob
-│✾▹ ${prefix}cuckold
-│✾▹ ${prefix}cum
-│✾▹ ${prefix}ero
-│✾▹ ${prefix}kasedaiki
-│✾▹ ${prefix}femdom
-│✾▹ ${prefix}foot
-│✾▹ ${prefix}gangbang
-│✾▹ ${prefix}glasses
-│✾▹ ${prefix}jahy
-│✾▹ ${prefix}manga
-│✾▹ ${prefix}masturbation
-│✾▹ ${prefix}neko
-│✾▹ ${prefix}orgy
-│✾▹ ${prefix}panties
-│✾▹ ${prefix}pussy
-│✾▹ ${prefix}neko2
-│✾▹ ${prefix}tentacles
-│✾▹ ${prefix}thighs
-│✾▹ ${prefix}yuri
-│✾▹ ${prefix}zettai
-│✾▹ ${prefix}loli
 ╰──────────┘
 `
 }
@@ -179,6 +160,10 @@ const adms = (prefix, sender) => {
 │ Usuário: @${sender.split("@")[0]}
 ╞───────────────┘
 │✾▹ ${prefix}ativacoes
+│✾▹ ${prefix}Recrutar
+│✾▹ ${prefix}Listanegra (número)
+│✾▹ ${prefix}Tirardalista (número)
+│✾▹ ${prefix}Infolistanegra
 │✾▹ ${prefix}Kick [@] (pra-remover) 
 │✾▹ ${prefix}Ban (responder-mensagem)
 │✾▹ ${prefix}Promover [@] (Ser-ADM)
@@ -199,6 +184,10 @@ const adms = (prefix, sender) => {
 │✾▹ ${prefix}Nomegp (Nome)
 │✾▹ ${prefix}Criartabela (ESCREVA-ALGO)
 │✾▹ ${prefix}Tabelagp
+│✾▹ ${prefix}Banir10 (Bane 10 ghost)
+│✾▹ ${prefix}Notas
+│✾▹ ${prefix}Anotar (NOME|TEXTO)
+│✾▹ ${prefix}Tirar_nota
 ╰──────────┘
 
 `
@@ -261,6 +250,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Dono4 @marca
 │✾▹ ${prefix}Dono5 @marca
 │✾▹ ${prefix}Bcgp (TM-PRA-PV-MEMBROS)
+│✾▹ ${prefix}Trocabio
 ╰──────────┘
 `
 
@@ -445,6 +435,14 @@ return `
 │✾▹ ${prefix}Destrava
 │✾▹ ${prefix}Destrava2
 │✾▹ ${prefix}Ddd (DDD)
+│✾▹ ${prefix}Placa
+│✾▹ ${prefix}Cpf (NÚMERO)
+│✾▹ ${prefix}Cpf2 (NÚMER)
+│✾▹ ${prefix}Tel (NÚMERO)
+│✾▹ ${prefix}bin (NÚMERO)
+│✾▹ ${prefix}cnpj (NÚMERO)
+│✾▹ ${prefix}score (NÚMERO)
+│✾▹ ${prefix}score (NOME)
 │✾▹ ${prefix}Cep (NÚMERO)
 │✾▹ ${prefix}GerarCPF
 │✾▹ ${prefix}PremiumList

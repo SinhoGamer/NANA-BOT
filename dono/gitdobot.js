@@ -25,6 +25,10 @@ const gitdobot = (prefix) => {
 
 🔈 Youtube music: https://www.sinhogamer.com/2019/07/baixar-youtube-music-premium-de-graca.html
 
+🤳🏻 PicsArt premium: https://www.sinhogamer.com/2019/02/picsart-premium-apk-mod-v1141-sem.html
+
+✂️ CapCut: https://www.sinhogamer.com/2021/06/capcut-viamaker-apk-mod-premium.html
+
 📷 Instagram Plus MOD: https://www.sinhogamer.com/2019/08/instaultra-apk-instagram-mod-2019.html
 
 📞 YoWhatsApp: https://www.sinhogamer.com/2018/05/yowhatsapp-v750-atualizado.html
@@ -57,7 +61,15 @@ const gitdobot = (prefix) => {
 
 🕹️ BitLife Br MOD: https://www.sinhogamer.com/2020/11/bitlife-life-simulator-v1342-apk-mod.html
 
-🕹️ OUTROS 2172 MODS: https://sinhogamer.com
+🕹️ SUBWAY SURFERS MOD: https://www.sinhogamer.com/2018/02/subway-surfers-mega-mod.html
+
+🕹️ STUMBLE GUYS MOD: https://www.sinhogamer.com/2020/11/stumble-guys-v016-apk-mod-skins.html
+
+🕹️ POU: https://www.sinhogamer.com/2018/05/pou-v-1477-mod-dinheiro-infinito.html
+
+🕹️ THE SIMS FREE PLAY MOD: https://www.sinhogamer.com/2018/02/the-sims-freeplay-hacker-5352.html
+
+🕹️ OUTROS 2218 MODS: https://sinhogamer.com
 
 
 *Extras* 🎁
@@ -69,13 +81,15 @@ const gitdobot = (prefix) => {
 
 🚫 TIRAR WHATSAPP DO BAN: https://www.sinhoplayer.com.br/2022/04/como-desbanir-numero-do-whatsapp.html
 
-🎁 PACK 5000 jogo JAVA+EMULADOR: 
-https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
+🎁 PACK 5000 jogo JAVA+EMULADOR: https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
 
-🎁 PACK APK JOGOS ANTIGOS ANDROIDES: https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
+🎁 PACK APK JOGOS ANTIGOS ANDROIDS: https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
 
 🕵️ CRIAR NÚMERO FAKE 2022: https://www.sinhoplayer.com.br/2021/12/como-criar-numero-fake-para-whatsapp.html
 
+☠️ LINKS PARA ACESSAR A DEEPWEB: https://www.sinhoplayer.com.br/2019/01/links-de-sites-para-acessar-na-deep-web.html
+
+🌐 INTERNET DE GRAÇA TODAS OPERADORAS: https://www.sinhoplayer.com.br/2022/06/como-ter-internet-de-graca-2022-todas.html
 
 🔎 *MAIS CONTEÚDOS*
 
