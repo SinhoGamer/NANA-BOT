@@ -7,7 +7,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╭───────────────┐
 ├── MENU DE COMANDOS 
 ├───────────────
-│👤Usuário: @${sender.split("@")[0]}
+│👤Olá @${sender.split("@")[0]}
 │🌐 Site: https://www.sinhogamer.com
 ╎👥 GRUPO: https://chat.whatsapp.com/HLNek7xLhWZ1K5Qejgj0sf
 ╎⬇️ App https://play.google.com/store/apps/details?id=com.sinho.mods
@@ -47,7 +47,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Roubar (TEXT/TEXT)
 │✾▹ ${prefix}Emoji 😏/whatsapp
 │✾▹ ${prefix}Emojimix 😉+🙂
-╎✾▹ ${prefix}Figurinhas (memes pack 1)
+╎✾▹ ${prefix}Figurinhas (Quantidade)
 ╎✾▹ ${prefix}Figaleatoria
 ╎✾▹ ${prefix}Telesticker (Link pack de fig telegram)
 ╰──────────┐
@@ -81,13 +81,16 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Gimage (NOME) 
 │✾▹ ${prefix}Pinterest (NOME)
 │✾▹ ${prefix}Mediafire (LINK)
+│✾▹ ${prefix}Metadinha
 ╰──────────┐
 ╭──────────┴─┐
 │ INFORMAÇÕES 
 ├────────────
 │✾▹ ${prefix}Ping
+│✾▹ ${prefix}Level
 │✾▹ ${prefix}Atividade
 │✾▹ ${prefix}Rankativo
+│✾▹ ${prefix}Rankinativo
 │✾▹ ${prefix}Checkativo (@MARCAR)
 │✾▹ ${prefix}Ranklevel
 │✾▹ ${prefix}Idiomas 
@@ -120,7 +123,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}futebols2
 │✾▹ ${prefix}Roletarussa (Vai banir 1)
 │✾▹ ${prefix}Morte
-│✾▹ ${prefix}Eununca (está em teste)
 │✾▹ ${prefix}Simi (FALE-ALGO)  
 ╰──────────┐
 ╭──────────┴─┐
@@ -159,8 +161,11 @@ const adms = (prefix, sender) => {
 ├───────────────
 │ Usuário: @${sender.split("@")[0]}
 ╞───────────────┘
-│✾▹ ${prefix}ativacoes
-│✾▹ ${prefix}Recrutar
+│✾▹ ${prefix}Ativacoes
+│✾▹ ${prefix}Recrutar (numero)
+│✾▹ ${prefix}Recrutargp (numero)
+│✾▹ ${prefix}Sistemgold 1 / 0
+│✾▹ ${prefix}Adverter (responder msg)
 │✾▹ ${prefix}Listanegra (número)
 │✾▹ ${prefix}Tirardalista (número)
 │✾▹ ${prefix}Infolistanegra
@@ -169,7 +174,7 @@ const adms = (prefix, sender) => {
 │✾▹ ${prefix}Promover [@] (Ser-ADM)
 │✾▹ ${prefix}Rebaixar [@] (rebaixar-adm)
 │✾▹ ${prefix}Totag (menciona-algo)
-│✾▹ ${prefix}Grupo f/a
+│✾▹ ${prefix}Grupo f / a
 │✾▹ ${prefix}Status
 │✾▹ ${prefix}Limpar (texto-invisível-gp)
 │✾▹ ${prefix}Atividades (DO-GRUPO)
@@ -213,6 +218,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ├───────────────┐
 │ Config: ${prefix}Configurar-bot
 ╞───────────────┘
+╎✾▹ ${prefix}Salvarfigu
+╎✾▹ ${prefix}Tirarfigu
 │✾▹ ${prefix}ativacoes_dono
 │✾▹ ${prefix}Botoes
 │✾▹ ${prefix}Bangp
@@ -251,6 +258,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Dono5 @marca
 │✾▹ ${prefix}Bcgp (TM-PRA-PV-MEMBROS)
 │✾▹ ${prefix}Trocabio
+│✾▹ ${prefix}Tirarrank (NÚMERO)
 ╰──────────┘
 `
 
