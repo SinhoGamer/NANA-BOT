@@ -17,6 +17,7 @@ return`
 ├────────────
 │Prefixo: ⩺ ${prefix}
 │Nome: ⩺ ${NomeDoBot} 
+│App do BOT: https://play.google.com/store/apps/details?id=com.sinho.mods
 ╰─────────────╯
 `
 }
