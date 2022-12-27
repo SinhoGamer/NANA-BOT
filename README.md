@@ -1,39 +1,67 @@
+# Aleatory MD - BOT DE WHATSAPP
+<div align="center">
+<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
 
-PARA INSTALAR ESSE BOT, POR FAVOR LEIA COM ATENÇÃO O LINK ABAIXO (E SE CASO VOCÊ JÁ TENHA EXPERIÊNCIA, APENAS IGNORE)
+</div>
+<p align="center">
+  <a href="https://github.com/NuevaGeneracionALB/aleatory-md.git"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
 
-SITE : https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
--------------------------------
+Precisa de ajuda ? Entra em nosso Chat: 
 
-APÓS INSTALAR TODAS DEPENDÊNCIAS COMO NODEJS, BASTA ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
-
-ATENÇÃO: NÃO USE TERMUX DA GOOGLE PLAY, NÃO PRESTA! USE O TERMUX DESTE LINK: https://f-droid.org/F-Droid.apk
-
-1- COMANDO PARA UTILIZAR NO CELULAR VIA TERMUX FDROID:
-
-cd /sdcard && git clone https://github.com/SinhoGamer/NANA-BOT.git && cd NANA-BOT
-
-COLE EXATAMENTE DESSA FÓRMA E JUNTO.
-
-2- COMANDO :
-
-sh start.sh
-
-ESTE COMANDO VAI INICIAR O BOT, E AÍ VOCÊ VAI NO WHATSAPP QUE DESEJA UTILIZAR O BOT E EM SEGUIDA IR EM APARELHOS CONECTADOS E ESCANEAR O CÓDIGO QR.
-APÓS TER FEITO ISSO, DESFRUTE DO BOT!
-
-3- COMO ALTERAR O DONO?
-
-USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > SETTINGS" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
-{
-"prefix": "!",
-	"NomeDoBot": "NOME DO BOT",
-	"NickDono": "SEU-NICK",
-	"numerodono": "SEU NUMERO",
-}
-
-4- SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
+https://chat.whatsapp.com/CeJrLkr13W1I0KRcfu9mtZ
 
 
-NANA BOT É UM BOT CRIADO COM BASE DO Aleatory-md e Baileys
+SÓ SERÁ NESCESSARIO DA OS COMANDOS BÁSICOS DO TERMUX, SE APÓS A INSTALAÇÃO DELE, NÃO FOI DADO ESSES COMANDOS LISTADOS. 
 
-Link do Aleatory-MD: https://github.com/NuevaGeneracionALB/aleatory-md
+_-_-_-_-_-_-_-_-_
+
+SE PRECISAR, INSTALE O TERMUX VERSÃO 119
+
+https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
+_-_-_-_-_-_-_-_-_-_
+
+Comandos Básicos do termux, nescessario para inicialização do bot:
+
+
+-_1 COMANDO :
+
+termux-change-repo 
+
+Confirma, marca a terceira caixinha e confirma e prossegue > 
+
+-_2 COMANDO :
+
+apt-get upgrade
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+-_3 COMANDO :
+
+apt-get update
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+-_4 Comando :
+
+pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
+
+-_5 COMANDO :
+
+termux-setup-storage
+
+
+E permite.
+
+
+
+__-_-_-_-_-
+
+COMANDO PRA INSTALAR A PASTA DO BOT, APÓS TUDO OU NÃO ERA NESCESSARIO:
+
+___-_-_-_-_-
+
+cd /sdcard && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md && sh start.sh  
+
+
+_- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 

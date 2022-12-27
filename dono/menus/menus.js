@@ -100,6 +100,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Ping
 │✾▹ ${prefix}Atividade
 │✾▹ ${prefix}Rankativo
+│✾▹ ${prefix}Rankativo2
 │✾▹ ${prefix}Checkativo (@MARCAR)
 │✾▹ ${prefix}Ranklevel
 │✾▹ ${prefix}Idiomas 
