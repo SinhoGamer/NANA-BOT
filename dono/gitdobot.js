@@ -7,7 +7,7 @@ const gitdobot = (prefix) => {
 
 🤓 BRAINLY PLUS MOD GRÁTIS: https://www.sinhogamer.com/2021/07/brainly-apk-mod-respostas-infinitas.html
 
-🎞️ CHRUNCHROLL PREMIUM MOD GRÁTIS: https://www.sinhogamer.com/2018/08/animetv-229-apk-baixar.html
+🎞️ CRUNCHYROLL PREMIUM MOD GRÁTIS: https://www.sinhogamer.com/2020/10/crunchyroll-v311-apk-mod-premium.html
 
 🎞️ APPS DE ANIMES GRÁTIS SEM ADS: https://www.sinhogamer.com/search?q=Animes&m=1
 
@@ -79,13 +79,9 @@ const gitdobot = (prefix) => {
 
 📺 LISTA IPTV GRÁTIS 2023: https://www.sinhoplayer.com.br/2022/01/lista-iptv-gratis-2022-para-kodi.html
 
-🚫 TIRAR WHATSAPP DO BAN: https://www.sinhoplayer.com.br/2022/04/como-desbanir-numero-do-whatsapp.html
-
 🎁 PACK 5000 jogo JAVA+EMULADOR: https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
 
 🎁 PACK APK JOGOS ANTIGOS ANDROIDS: https://www.sinhoplayer.com.br/2022/02/pacote-de-jogos-java-jar-emulador.html
-
-🕵️ CRIAR NÚMERO FAKE 2022: https://www.sinhoplayer.com.br/2021/12/como-criar-numero-fake-para-whatsapp.html
 
 ☠️ LINKS PARA ACESSAR A DEEPWEB: https://www.sinhoplayer.com.br/2019/01/links-de-sites-para-acessar-na-deep-web.html
 
@@ -96,9 +92,6 @@ const gitdobot = (prefix) => {
 
 🌐 Site: https://www.sinhogamer.com
 👥 GRUPO: https://chat.whatsapp.com/HLNek7xLhWZ1K5Qejgj0sf
-⬇️ App do BOT: https://play.google.com/store/apps/details?id=com.sinho.mods
-🌐 Seu próprio BOT: https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
-
 ⬇️ APPS PARA BAIXAR MODS (MELHOR QUE HAPPYMODS)
 
 https://play.google.com/store/apps/details?id=com.sinho.mods
