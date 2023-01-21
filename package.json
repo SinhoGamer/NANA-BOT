@@ -1,7 +1,7 @@
 {
-  "name": "Aleatory-MD",
+  "name": "nanabot",
   "version": "3.0.0",
-  "description": "Aleatory-MD, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
+  "description": "NANA-BOT, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NuevaGeneracionALB/aleatory-md.git"
+    "url": "https://github.com/SinhoGamer/NANA-BOT"
   },
   "keywords": [
     "não",
     "tem"
   ],
-  "author": "Aleatory Contéudos",
+  "author": "SINHO GAMER",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NuevaGeneracionALB/aleatory-md/issues"
+    "url": "https://github.com/SinhoGamer/NANA-BOT/issues"
   },
-  "homepage": "https://github.com/NuevaGeneracionALB/aleatory-md#readme",
+  "homepage": "https://github.com/SinhoGamer/NANA-BOT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -54,7 +54,6 @@
     "isarray": "^2.0.5",
     "jpeg-js": "^0.4.3",
     "jsdom": "^19.0.0",
-    "jspdf": "^2.5.1",
     "linkifyjs": "^3.0.5",
     "lolis.life": "^4.0.0",
     "mime": "^3.0.0",
