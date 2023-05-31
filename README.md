@@ -31,7 +31,9 @@ USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > SETTINGS" E M
 	"numerodono": "SEU NUMERO",
 }
 
-4- SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
+4- Instale o módulo RSS-PARSER com este comando npm install --save rss-parser
+
+5- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
 
 
 NANA BOT É UM BOT CRIADO COM BASE DO Aleatory-md e Baileys
