@@ -29,7 +29,10 @@ USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.js
 "dono1": "557388582171", - Basta trocar o dono1 para seu número (não o do bot)
 
 
-4- Instale o módulo RSS-PARSER com este comando npm install --save rss-parser
+4- Instale o módulo RSS-PARSER com este comando:
+
+cd NANA-BOT
+npm install --save rss-parser
 
 
 5- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
