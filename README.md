@@ -21,17 +21,16 @@ sh start.sh
 ESTE COMANDO VAI INICIAR O BOT, E AÍ VOCÊ VAI NO WHATSAPP QUE DESEJA UTILIZAR O BOT E EM SEGUIDA IR EM APARELHOS CONECTADOS E ESCANEAR O CÓDIGO QR.
 APÓS TER FEITO ISSO, DESFRUTE DO BOT!
 
+
 3- COMO ALTERAR O DONO?
 
-USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > SETTINGS" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
-{
-"prefix": "!",
-	"NomeDoBot": "NOME DO BOT",
-	"NickDono": "SEU-NICK",
-	"numerodono": "SEU NUMERO",
-}
+USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.js" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
+
+"dono1": "557388582171", - Basta trocar o dono1 para seu número (não o do bot)
+
 
 4- Instale o módulo RSS-PARSER com este comando npm install --save rss-parser
+
 
 5- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
 
