@@ -96,6 +96,12 @@ const gitdobot = (prefix) => {
 
 https://play.google.com/store/apps/details?id=com.sinho.mods
 
+Quer mais? responda com:
+
+!todosmods
+!appsmod
+!jogosmod
+
 By: @sinhogamer
 Tenham um ótimo dia :)
 

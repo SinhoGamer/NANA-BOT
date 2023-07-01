@@ -81,14 +81,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │▹ ${prefix}Simi (Oi) 
 ╰──────────┐
 ╭──────────┴─┐
-│ FUTEBOL 
-├────────────
-│▹ ${prefix}Futebol
-│▹ ${prefix}Partidas
-│▹ ${prefix}Proxjogos
-│▹ ${prefix}Palpites
-╰──────────┐
-╭──────────┴─┐
 │ INFORMAÇÕES 
 ├────────────
 │▹ ${prefix}Ping
@@ -117,12 +109,9 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │▹ ${prefix}Brincadeiras
 │▹ ${prefix}Pack
 │▹ ${prefix}Mods
-│▹ ${prefix}Jogosmod
-│▹ ${prefix}Appsmod
 │▹ ${prefix}Aplicativo
 │▹ ${prefix}Amizades
-│▹ ${prefix}Noticias
-│▹ ${prefix}Futebol
+│▹ ${prefix}Manchetes
 ╰──────────┐
 ╭──────────┴─┐
 │ COMANDOS DE MEMBRO
