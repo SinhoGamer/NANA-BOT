@@ -8,6 +8,7 @@ APÓS INSTALAR TODAS DEPENDÊNCIAS COMO NODEJS, BASTA ENTRAR NO TERMUX E DA ESSE
 
 ATENÇÃO: NÃO USE TERMUX DA GOOGLE PLAY, NÃO PRESTA! USE O TERMUX DESTE LINK: https://f-droid.org/repo/com.termux_118.apk
 
+
 1- COMANDO PARA UTILIZAR NO CELULAR VIA TERMUX FDROID:
 
 cd /sdcard && git clone https://github.com/SinhoGamer/NANA-BOT.git && cd NANA-BOT
@@ -24,18 +25,13 @@ APÓS TER FEITO ISSO, DESFRUTE DO BOT!
 
 3- COMO ALTERAR O DONO?
 
-USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.js" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
+USE O COMANDO !configurar-bot ou !configurar OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.js" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
 
-"dono1": "557388582171", - Basta trocar o dono1 para seu número (não o do bot)
-
-
-4- Instale o módulo RSS-PARSER com este comando:
-
-cd NANA-BOT
-npm install --save rss-parser
+"dono1": "557388582171", - Basta trocar o número que está lá para seu número que será dono do bot (não o do bot)
 
 
-5- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
+
+4- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
 
 
 NANA BOT É UM BOT CRIADO COM BASE DO Aleatory-md e Baileys
