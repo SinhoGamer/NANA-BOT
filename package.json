@@ -18,8 +18,8 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
   },
-  "name": "aleatory_3.6",
-  "description": "<div align=\"center\"> <img src=\"https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg\" alt=\"Aleatory MD - BOT\" width=\"300\" />",
+  "name": "nanabot_4.0",
+  "description": "<div align=\"center\"> <img src=\"https://cdn.aibooru.space/sample/cf/f1/__secre_swallowtail_black_clover_generated_by_neuror1ston_using_anything_model_and_grapefruit_model__sample-cff16e41e2eb5502bbe71dc53fb9a5de.jpg\" alt=\"NANA - BOT V4\" width=\"300\" />",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NuevaGeneracionALB/aleatory-md.git"
+    "url": "git+https://github.com/SinhoGamer/NANA-BOT"
   },
   "keywords": [
     "BOT"
   ],
-  "author": "Aleatory Conteudos",
+  "author": "SinhoGamer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NuevaGeneracionALB/aleatory-md/issues"
+    "url": "https://github.com/SinhoGamer/NANA-BOT"
   },
-  "homepage": "https://github.com/NuevaGeneracionALB/aleatory-md#readme"
+  "homepage": "https://github.com/SinhoGamer/NANA-BOT#readme"
 }
