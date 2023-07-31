@@ -15,7 +15,7 @@ const gitdobot = (prefix) => {
 
 🎶 Dezzer premium: https://www.sinhogamer.com/2021/01/resso-premium-vv1261-apk-mod-tudo.html
 
-🎶 Resso  premium: https://www.sinhogamer.com/2021/01/resso-premium-vv1261-apk-mod-tudo.html
+🤳🏻 Remini  premium: https://www.sinhogamer.com/2021/08/remini-photo-enhancer-premium-apk-mod.html
 
 🎥 YouTube premium: https://www.sinhogamer.com/2018/11/youtube-red-youtube-premium-apk-mod.html
 

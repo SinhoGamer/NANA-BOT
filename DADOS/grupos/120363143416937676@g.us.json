@@ -1,0 +1,107 @@
+[
+  {
+    "name": "🍖ＡＬＩＡＤＯＳ ＤＯＳ Ｄ'ｓ 🍶",
+    "groupId": "120363143416937676@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "6299325385@s.whatsapp.net",
+      "7991825053@s.whatsapp.net",
+      "7193011474@s.whatsapp.net",
+      "8396281888@s.whatsapp.net",
+      "9292310381@s.whatsapp.net",
+      "6198888264@s.whatsapp.net",
+      "7788180592@s.whatsapp.net",
+      "7781122657@s.whatsapp.net",
+      "13991618292@s.whatsapp.net",
+      "11886873984@s.whatsapp.net",
+      "8581943779@s.whatsapp.net",
+      "8391823436@s.whatsapp.net",
+      "6593328633@s.whatsapp.net",
+      "3173499449@s.whatsapp.net",
+      "númerocom55sem@s.whatsapp.net",
+      "5511911881016@s.whatsapp.net",
+      "5516996263493@s.whatsapp.net",
+      "819036377042@s.whatsapp.net",
+      "11981262479@s.whatsapp.net",
+      "19971376486@s.whatsapp.net",
+      "3497981914@s.whatsapp.net",
+      "244924891592@s.whatsapp.net",
+      "8184349857@s.whatsapp.net",
+      "9294852464@s.whatsapp.net",
+      "9181948161@s.whatsapp.net",
+      "559294852464@s.whatsapp.net",
+      "8187i37867@s.whatsapp.net",
+      "8187837867@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]
