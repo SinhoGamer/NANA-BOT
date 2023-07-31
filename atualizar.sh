@@ -1,1 +1,1 @@
-pkg install zip unzip -y && zip -r DADOS.zip DADOS && mv DADOS.zip ../ && cd .. && rm -rf aleatory-md && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && rm -rf ./aleatory-md/DADOS && mv DADOS.zip aleatory-md && cd aleatory-md && unzip DADOS.zip && sh start.sh
+pkg install zip unzip -y && zip -r DADOS.zip DADOS && mv DADOS.zip ../ && cd .. && rm -rf NANA-BOT && git clone https://github.com/SinhoGamer/NANA-BOT.git && rm -rf ./NANA-BOT/DADOS && mv DADOS.zip NANA-BOT && cd NANA-BOT && unzip DADOS.zip && sh start.sh
