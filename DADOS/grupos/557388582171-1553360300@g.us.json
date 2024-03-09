@@ -9,7 +9,7 @@
     "antisticker": false,
     "antidoc": false,
     "antictt": false,
-    "antiloc": false,
+    "antiloc": true,
     "antilinkgp": true,
     "antilinkhard": false,
     "antifake": false,
@@ -21,7 +21,16 @@
     "visuUnica": false,
     "registrarFIGUS": false,
     "soadm": false,
-    "listanegra": [],
+    "listanegra": [
+      "555192054931@s.whatsapp.net",
+      "5519971055622@s.whatsapp.net",
+      "5521969688190@s.whatsapp.net",
+      "5521971968082@s.whatsapp.net",
+      "5511987230125@s.whatsapp.net",
+      "556181700272@s.whatsapp.net",
+      "5512978502412@s.whatsapp.net",
+      "5512996812828@s.whatsapp.net"
+    ],
     "advertir": [],
     "prefixos": [
       "!"
@@ -56,7 +65,7 @@
       "palavras": []
     },
     "limitec": {
-      "active": false,
+      "active": true,
       "quantidade": null
     },
     "wellcome": [

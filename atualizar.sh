@@ -1,1 +1,1 @@
-pkg install zip unzip -y && zip -r DADOS.zip DADOS && mv DADOS.zip ../ && cd .. && rm -rf NANA-BOT && git clone https://github.com/SinhoGamer/NANA-BOT.git && rm -rf ./NANA-BOT/DADOS && mv DADOS.zip NANA-BOT && cd NANA-BOT && unzip DADOS.zip && sh start.sh
+apt install zip unzip -y && zip -r DADOS.zip DADOS && mv DADOS.zip ../ && cd .. && rm -rf NANA-BOT && git clone https://github.com/SinhoGamer/NANA-BOT && rm -rf ./NANA-BOT/DADOS && mv DADOS.zip NANA-BOT && cd NANA-BOT && unzip DADOS.zip && sh start.sh

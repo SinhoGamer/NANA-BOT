@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
+    "@whiskeysockets/baileys": "6.4",
     "axios": "^0.21.1",
     "cfonts": "^2.10.0",
     "cheerio": "^1.0.0-rc.12",
@@ -16,15 +16,13 @@
     "node-fetch": "^2.6.7",
     "node-webpmux": "^3.1.1",
     "qrcode-terminal": "^0.12.0",
-    "request": "^2.88.2",
-    "rss-parser": "^3.13.0"
+    "request": "^2.88.2"
   },
-  "name": "aleatory_3.6",
-  "description": "<div align=\"center\"> <img src=\"https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg\" alt=\"Aleatory MD - BOT\" width=\"300\" />",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "aleatory-md",
+  "description": "Sempre buscando melhorar, qualquer dúvida chama lá no WhatsApp: +55 81 9892-3680",
+  "version": "4.0",
   "scripts": {
-    "start": "sh start.sh",
+    "start": "bash start.sh",
     "test": "node iniciar.js"
   },
   "repository": {
@@ -32,7 +30,8 @@
     "url": "git+https://github.com/NuevaGeneracionALB/aleatory-md.git"
   },
   "keywords": [
-    "BOT"
+    "BOT",
+    "ALEATORY"
   ],
   "author": "Aleatory Conteudos",
   "license": "MIT",

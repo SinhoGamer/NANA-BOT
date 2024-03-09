@@ -9,12 +9,12 @@
     "antisticker": false,
     "antidoc": true,
     "antictt": true,
-    "antiloc": false,
-    "antilinkgp": true,
+    "antiloc": true,
+    "antilinkgp": false,
     "antilinkhard": false,
     "antifake": true,
     "Odelete": false,
-    "antispam": false,
+    "antispam": true,
     "antinotas": true,
     "anticatalogo": true,
     "sistemGold": false,
@@ -37,7 +37,26 @@
       "5517981723013@s.whatsapp.net",
       "5522981396613@s.whatsapp.net",
       "557798778459@s.whatsapp.net",
-      "5519987683998@s.whatsapp.net"
+      "5519987683998@s.whatsapp.net",
+      "553196913944@s.whatsapp.net",
+      "553196118535@s.whatsapp.net",
+      "5511976217768@s.whatsapp.net",
+      "555192054931@s.whatsapp.net",
+      "554399271419@s.whatsapp.net",
+      "557388680460@s.whatsapp.net",
+      "556999194266@s.whatsapp.net",
+      "558197011218@s.whatsapp.net",
+      "5519971055622@s.whatsapp.net",
+      "555181219625@s.whatsapp.net",
+      "557399375461@s.whatsapp.net",
+      "5521969688190@s.whatsapp.net",
+      "559284465287@s.whatsapp.net",
+      "5521971968082@s.whatsapp.net",
+      "5511987230125@s.whatsapp.net",
+      "556181700272@s.whatsapp.net",
+      "5512996812828@s.whatsapp.net",
+      "559293953338@s.whatsapp.net",
+      "554196601676@s.whatsapp.net"
     ],
     "advertir": [
       "558585752140@s.whatsapp.net",
@@ -45,7 +64,10 @@
       "555197963937@s.whatsapp.net",
       "559286096458@s.whatsapp.net",
       "555199094451@s.whatsapp.net",
-      "556592993777@s.whatsapp.net"
+      "556592993777@s.whatsapp.net",
+      "558281690535@s.whatsapp.net",
+      "558597984324@s.whatsapp.net",
+      "559192049300@s.whatsapp.net"
     ],
     "prefixos": [
       "!",
@@ -993,7 +1015,7 @@
       ]
     },
     "limitec": {
-      "active": false,
+      "active": true,
       "quantidade": null
     },
     "wellcome": [
@@ -1011,7 +1033,7 @@
     "simi1": false,
     "simi2": true,
     "autosticker": false,
-    "autoresposta": true,
+    "autoresposta": false,
     "jogos": true,
     "level": true,
     "bangp": false,
