@@ -39,7 +39,7 @@ USE O COMANDO !configurar-bot ou !configurar OU SE PREFERIR VÁ NA PASTA "DONOS 
 
 
 
-4- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://kitsinho.com.br/sinhogamerapkmod/
+4- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://te.me/SinhoGamer
 
 
 NANA BOT É UM BOT CRIADO COM BASE DO Aleatory-md e Baileys
