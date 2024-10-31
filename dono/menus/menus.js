@@ -7,80 +7,102 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ⎙*BEM VINDO A NANA*
 
 ⬇️ App: Sinho Gamer MODS (Play Store)
+SEGUE INSTA: @botdefigurinhas
 
 ⎙ *FIGURINHAS*
 
-➣ ${prefix}Attp (TEXTO)
-➣ ${prefix}Attp2 (TEXTO)
-➣ ${prefix}F (MARCAR-FOTO)
-➣ ${prefix}S (MARCAR-FOTO)
-➣ ${prefix}Toimg (MARCAR-FIGU)
-➣ ${prefix}Togif (MARCAR-FIGU)
-➣ ${prefix}Roubar (TEXT/TEXT)
-➣ ${prefix}Emoji 😏/whatsapp
-➣ ${prefix}Emojimix 😉+🙂
-➣ ${prefix}Figurinhas
+▸• ${prefix}s (marcar-foto)
+▸• ${prefix}f (marcar-foto)
+▸• ${prefix}pesquisafig (nome)
+▸• ${prefix}attp (texto)
+▸• ${prefix}attp2 (texto)
+▸• ${prefix}sticker (marcar-foto)
+▸• ${prefix}fsticker (marcar-foto)
+▸• ${prefix}toimg (marcar-figu)
+▸• ${prefix}togif (marcar-figu)
+▸• ${prefix}rename (text/text)
+▸• ${prefix}figaleatoria
+▸• ${prefix}figurinhas (ex: 5)
+▸• ${prefix}figgatos
+▸• ${prefix}figemoji (ex: 5)
+▸• ${prefix}figroblox (ex: 5)
+▸• ${prefix}figmeme (ex: 5)
+▸• ${prefix}figanime (ex: 5)
+▸• ${prefix}figcoreana (ex: 5)
+▸• ${prefix}figraiva (ex: 5)
+▸• ${prefix}figengracada (ex: 5)
+▸• ${prefix}figdesenho (ex: 5)
+▸• ${prefix}fig (ex: 5)
+▸• ${prefix}emoji 😏/Whatsapp
+▸• ${prefix}emoji 😏/Apple
+▸• ${prefix}emoji 😏/openmoji
+▸• ${prefix}emojimix 😉+🙂
+▸• ${prefix}telegram (link do pacote de fig)
 
 
 ⎙*PESQUISAS/BAIXAR*
 
-➣ ${prefix}Play (NOME)
-➣ ${prefix}playstore (nome)
-➣ ${prefix}tiktok (link)
-➣ ${prefix}instagram (link)
-➣ ${prefix}facebook (link)
-➣ ${prefix}twitter (link)
-➣ ${prefix}gerarlink (marcar)
-➣ ${prefix}amazon (exemplo: celular A13)
-➣ ${prefix}grupos (exemplo: Naruto)
-➣ ${prefix}Ytmp4 (LINK YT) 
-➣ ${prefix}Ytmp3 (LINK YT)  
-➣ ${prefix}Ytsearch (NOME)
-➣ ${prefix}Gimage (NOME)
-➣ ${prefix}Imgpralink (MARCAR)
-➣ ${prefix}Videopralink (MARCAR-V) 
-➣ ${prefix}Mediafire (LINK)
-➣ ${prefix}Mod (Nome do Jogo/App)
-➣ ${prefix}Mods
-➣ ${prefix}Pack
-➣ ${prefix}Jogosmod
-➣ ${prefix}Appsmod
-➣ ${prefix}Roms
-➣ ${prefix}letramusica (ex: Ela me traiu)
+▸• ${prefix}Play (NOME da música)
+▸• ${prefix}Playdoc (NOME)
+▸• ${prefix}Youtube (link do yt/short)
+▸• ${prefix}Short (Link do short)
+▸• ${prefix}Ytmp4 (LINK YT/Short) 
+▸• ${prefix}Ytmp3 (LINK YT/Short)
+▸• ${prefix}Ytsearch (NOME) 
+▸• ${prefix}tiktok (link)
+▸• ${prefix}instagram (link)
+▸• ${prefix}Reels (link do rell)
+▸• ${prefix}facebook (link)
+▸• ${prefix}twitter (link)
+▸• ${prefix}X (link) 
+▸• ${prefix}Soundcloud (LINK)
+▸• ${prefix}Spotify (LINK)
+▸• ${prefix}Spotify2 (LINK)
+▸• ${prefix}Threads (LINK)
+▸• ${prefix}Kwai (LINK)
+▸• ${prefix}letramusica (ex: Ela me traiu)
+▸• ${prefix}playstore (nome)
+▸• ${prefix}aptoide (LINK)
+▸• ${prefix}aptoide_pesquisa (Nome)
+▸• ${prefix}gerarlink (marcar)
+▸• ${prefix}amazon (exemplo: celular A13)
+▸• ${prefix}Gimage (NOME)
+▸• ${prefix}Imgpralink (MARCAR)
+▸• ${prefix}videopralink (MARCAR-V) 
+▸• ${prefix}Mediafire (LINK)
+▸• ${prefix}Wallpapers
+▸• ${prefix}Wallpaper-animes
+▸• ${prefix}Fotosfake (para perfil)
+▸• ${prefix}Mod (Nome do Jogo/App)
+▸• ${prefix}Mods
+▸• ${prefix}Pack
+▸• ${prefix}Jogosmod
+▸• ${prefix}Appsmod
 
 
 ⎙*JOGOS/QUIZ*
 
-➣ ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
-➣ ${prefix}Jogodavelha (@MARCAR) 
-➣ ${prefix}Dado
-➣ ${prefix}Roleta
-➣ ${prefix}Roleta2
-➣ ${prefix}Tiro
-➣ ${prefix}Tiro2
-➣ ${prefix}falta
-➣ ${prefix}falta2
-➣ ${prefix}baterfalta
-➣ ${prefix}Roletarussa (Vai banir 1)
-➣ ${prefix}Roletarussa2 (Vai banir 1)
-➣ ${prefix}Roletarussa3 (Vai banir 1)
-➣ ${prefix}Morte
-➣ ${prefix}Simi (Oi) 
-➣ ${prefix}Gpt (Somente premium) 
-➣ ${prefix}Crimg (Somente premium) 
-➣ ${prefix}sistemgold
-➣ ${prefix}iniciar_forca
-➣ ${prefix}jogodavelha (@marcar)
+▸• ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
+▸• ${prefix}Jogodavelha (@MARCAR) 
+▸• ${prefix}Roleta
+▸• ${prefix}tiro
+▸• ${prefix}falta
+▸• ${prefix}baterfalta
+▸• ${prefix}Roletarussa (Vai banir 1 incluindo BOT)
+▸• ${prefix}Morte
+▸• ${prefix}Simi (Oi) 
+▸• ${prefix}Nana (Oi) 
+▸• ${prefix}sistemgold
+▸• ${prefix}iniciar_forca
+▸• ${prefix}jogodavelha (@marcar)
 
 
 ⎙*FUTEBOL*
 
-➣ ${prefix}Futebol
+➣ ${prefix}Tabela
 ➣ ${prefix}Partidas
 ➣ ${prefix}Proxjogos
 ➣ ${prefix}Palpites
-➣ ${prefix}Meutime (NOME)
-➣ ${prefix}brasileirao
 
 
 ⎙*INFORMAÇÕES*
@@ -109,22 +131,20 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ➣ ${prefix}Logos
 ➣ ${prefix}Brincadeiras
 ➣ ${prefix}Mods
+➣ ${prefix}sfundo (MARQUE A FOTO)
 ➣ ${prefix}Aplicativo
-➣ ${prefix}Amizades
 ➣ ${prefix}Noticias
-➣ ${prefix}Futebol
-
-
-⎙*COMANDOS/BÁSICOS*
-
 ➣ ${prefix}Gtts (pt + TEXTO)
-➣ ${prefix}Tagme 
-➣ ${prefix}Tabela (LETRAS) 
+➣ ${prefix}Falar (pt + TEXTO)
+➣ ${prefix}Transcrever (MARQUE O AUDIO/VIDEO)
+➣ ${prefix}Lerfoto (MARQUE A FOTO)
+➣ ${prefix}hidetag (marque algo) 
+➣ ${prefix}lerfoto (marcar foto)
+➣ ${prefix}Tabeladeletras (LETRAS) 
 ➣ ${prefix}Conselhobiblico
 ➣ ${prefix}Perfil
 ➣ ${prefix}Calcular 1 + 1
 ➣ ${prefix}Fazernick (NICK)
-➣ ${prefix}Correio
 ➣ ${prefix}Anotações
 ➣ ${prefix}Bot
 ➣ ${prefix}metadinha
@@ -319,6 +339,7 @@ Usuário: @${sender.split("@")[0]}
 ➣ ${prefix}Bass2 (marca)
 ➣ ${prefix}Vozmenino (marca)
 ➣ ${prefix}Audioreverse (marca)
+➣ ${prefix}Paraaudio (marca o video)
 
 ──────────────────────────────
 
