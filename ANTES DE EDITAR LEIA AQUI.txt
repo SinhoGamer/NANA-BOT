@@ -22,3 +22,7 @@ npm i axios
 
 DÚVIDAS SOBRE COMO INSTALAR: https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
 
+GRUPO WHATSAPP: https://botdefigurinhas.com.br/grupo-do-bot-de-fazer-figurinhas-para-whatsapp
+
+INSTAGRAM: @botdefigurinhas
+
