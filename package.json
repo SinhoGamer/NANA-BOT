@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@whiskeysockets/baileys": "6.4",
+    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
     "axios": "^0.21.1",
     "cfonts": "^2.10.0",
     "cheerio": "^1.0.0-rc.12",
@@ -16,27 +16,28 @@
     "node-fetch": "^2.6.7",
     "node-webpmux": "^3.1.1",
     "qrcode-terminal": "^0.12.0",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "rss-parser": "^3.13.0"
   },
-  "name": "aleatory-md",
-  "description": "Sempre buscando melhorar, qualquer dúvida chama lá no WhatsApp: +55 81 9892-3680",
-  "version": "4.0",
+  "name": "nanabot",
+  "description": "Contato: 557391565878",
+  "version": "5.0",
   "scripts": {
     "start": "bash start.sh",
     "test": "node iniciar.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NuevaGeneracionALB/aleatory-md.git"
+    "url": "git+https://github.com/SinhoGamer/NANA-BOT/"
   },
   "keywords": [
     "BOT",
     "ALEATORY"
   ],
-  "author": "Aleatory Conteudos",
+  "author": "Sinho Gamer",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/NuevaGeneracionALB/aleatory-md/issues"
   },
-  "homepage": "https://github.com/NuevaGeneracionALB/aleatory-md#readme"
+  "homepage": "https://github.com/SinhoGamer/NANA-BOT/blob/main/README.md"
 }

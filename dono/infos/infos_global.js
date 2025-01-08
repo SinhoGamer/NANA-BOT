@@ -262,6 +262,10 @@ H⃟༻ I⃟༻ J⃟༻K⃟༻ L⃟༻M⃟༻ N⃟༻O⃟༻ P⃟༻ Q⃟༻R⃟
 const cmd_termux = (prefix) => {
 return `
 _-_-_-_-_-_-_-_-_
+
+Para saber como instalar o termux e da os comandos, veja esse site:
+
+https://aleatory.vip/instalacao
 `;
 };
 
