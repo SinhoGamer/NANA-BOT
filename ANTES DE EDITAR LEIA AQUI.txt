@@ -12,9 +12,12 @@ RESOLVENDO ERROS:
 
 BOT NÃO APARECE O MENU: Envie uma foto no pv do bot, e marque ela com !fotomenu
 
-BOT NÃO RESPONDE: desative os botões com !botoes caso esteja ativo.
+BOT NÃO RESPONDE: Tente usar prefixos como !menu /menu #menu e se persistir, desative os botões com !botoes caso esteja ativo.
 
 NECESSÁRIO INSTALAR OS MODULOS ABAIXO NO TERMUX OU TERMINAL:
+
+
+cd NANA-BOT
 
 npm i rss-parser
 npm i cheerio
@@ -25,4 +28,6 @@ DÚVIDAS SOBRE COMO INSTALAR: https://www.sinhoplayer.com.br/2021/11/como-criar-
 GRUPO WHATSAPP: https://botdefigurinhas.com.br/grupo-do-bot-de-fazer-figurinhas-para-whatsapp
 
 INSTAGRAM: @botdefigurinhas
+
+Projetos: bit.y/sinhoo
 
