@@ -33,15 +33,16 @@ APÓS TER FEITO ISSO, DESFRUTE DO BOT!
 
 3- COMO ALTERAR O DONO?
 
-USE O COMANDO !configurar-bot ou !configurar OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.js" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
+USE O COMANDO !configurar-bot OU SE PREFERIR VÁ NA PASTA "DONOS > necessario.json" E MUDE PARA SUAS CREDENCIAIS COMO O EXEMPLO ABAIXO:
 
 "dono1": "557388582171", - Basta trocar o número que está lá para seu número que será dono do bot (não o do bot)
 
 
+4- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://wa.me/+557391565878
 
-4- PRONTO, SE HOUVER DÚVIDAS, ENTRE NESTE LINK PARA TROCARMOS UMAS IDÉIAS SOBRE O BOT: https://t.me/SinhoGamer
 
-
-NANA BOT É UM BOT CRIADO COM BASE DO Aleatory-md e Baileys
+NANA BOT É UM BOT CRIADO POR SINHO, COM BASE DO Aleatory-md e Baileys
 
 Link do Aleatory-MD: https://github.com/NuevaGeneracionALB/aleatory-md
+
+Meus projetos: https://bit.ly/sinhoo
