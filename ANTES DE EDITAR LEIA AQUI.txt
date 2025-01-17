@@ -1,27 +1,19 @@
-TURORIAL DE INSTALAÇÃO: https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
+TURORIAL DE INSTALAÇÃO PC E CELULAR: https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
+
 
 NÃO APAGUE NENHUM ARQUIVO DO BOT, A NÃO SER OS ARQUIVOS DE IMAGENS, VIDEOS E AUDIOS QUE APARECE NA PASTA PRINCIPAL.
 
 POIS SE APAGAR, PODE DA ERRO!.
 
-TENHA SEU PRÓPRIO BOT TOTALMENTE PERSONALIZAVÉL, COM SUA PRÓPRIA API KEY: https://wa.me/+5573991565878
-
-SITE DO BOT: https://botdefigurinhas.com.br
+______________________________________________________________
 
 RESOLVENDO ERROS:
 
 BOT NÃO APARECE O MENU: Envie uma foto no pv do bot, e marque ela com !fotomenu
 
-BOT NÃO RESPONDE: Tente usar prefixos como !menu /menu #menu e se persistir, desative os botões com !botoes caso esteja ativo.
+BOT NÃO RESPONDE: Tente usar prefixos como !menu /menu #menu
 
-NECESSÁRIO INSTALAR OS MODULOS ABAIXO NO TERMUX OU TERMINAL:
-
-
-cd NANA-BOT
-
-npm i rss-parser
-npm i cheerio
-npm i axios
+SITE DO BOT: https://botdefigurinhas.com.br
 
 DÚVIDAS SOBRE COMO INSTALAR: https://www.sinhoplayer.com.br/2021/11/como-criar-um-bot-de-figurinhas-para-whatsapp.html
 
