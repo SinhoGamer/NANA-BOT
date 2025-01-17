@@ -7582,140 +7582,118 @@
     "grupo": "120363356594347810@g.us",
     "usus": [
       {
-        "id": "553598122999@s.whatsapp.net",
-        "Golds": 91,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
         "id": "5521976764715@s.whatsapp.net",
-        "Golds": 109,
-        "data": "03/01/25",
+        "Golds": 199,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "554796721360@s.whatsapp.net",
-        "Golds": 265,
-        "data": "07/01/25",
+        "Golds": 2115,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 56,
+            "Tempo": 0
+          }
+        ]
+      },
+      {
+        "id": "5511949261474@s.whatsapp.net",
+        "Golds": 170,
+        "data": "14/01/25",
+        "emp_G": [],
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 88,
+            "Tempo": 0
+          }
+        ]
+      },
+      {
+        "id": "557598322120@s.whatsapp.net",
+        "Golds": 526,
+        "data": "17/01/25",
         "emp_G": [
           {
-            "id": "559984667013@s.whatsapp.net",
-            "Golds": 42,
-            "Tempo": 1736276786,
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 373,
+            "Tempo": 1737160100,
             "cobrou": 0
           }
         ],
         "emp_A": []
       },
       {
-        "id": "5511949261474@s.whatsapp.net",
-        "Golds": 190,
-        "data": "06/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "557598322120@s.whatsapp.net",
-        "Golds": 59,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
         "id": "556195835081@s.whatsapp.net",
-        "Golds": 38,
+        "Golds": 17,
         "data": "02/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "556199999762@s.whatsapp.net",
-        "Golds": 24,
-        "data": "06/01/25",
+        "Golds": 1296,
+        "data": "17/01/25",
         "emp_G": [],
         "emp_A": [
           {
             "id": "558499039419@s.whatsapp.net",
-            "Golds": 20,
+            "Golds": 207,
             "Tempo": 0
           }
         ]
-      },
-      {
-        "id": "558499039419@s.whatsapp.net",
-        "Golds": 182,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
       },
       {
         "id": "557398064794@s.whatsapp.net",
-        "Golds": 35,
-        "data": "07/01/25",
+        "Golds": 209,
+        "data": "17/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
-        "id": "556899134970@s.whatsapp.net",
-        "Golds": 136,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": [
-          {
-            "id": "558499039419@s.whatsapp.net",
-            "Golds": 50,
-            "Tempo": 0
-          }
-        ]
-      },
-      {
         "id": "558189272684@s.whatsapp.net",
-        "Golds": 1,
-        "data": "07/01/25",
+        "Golds": 3,
+        "data": "17/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "554599969241@s.whatsapp.net",
-        "Golds": 67,
-        "data": "07/01/25",
+        "Golds": 5966,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": [
           {
-            "id": "5518996184098@s.whatsapp.net",
-            "Golds": 1200,
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1820,
             "Tempo": 0
           }
         ]
       },
       {
-        "id": "5513988690292@s.whatsapp.net",
-        "Golds": 201,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
         "id": "557499473645@s.whatsapp.net",
-        "Golds": 43,
-        "data": "04/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "553496418838@s.whatsapp.net",
-        "Golds": 108,
-        "data": "07/01/25",
+        "Golds": 20,
+        "data": "14/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "5522981103221@s.whatsapp.net",
-        "Golds": 120,
-        "data": "07/01/25",
-        "emp_G": [],
+        "Golds": 320,
+        "data": "16/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 275,
+            "Tempo": 1737154639,
+            "cobrou": 0
+          }
+        ],
         "emp_A": []
       },
       {
@@ -7727,167 +7705,105 @@
       },
       {
         "id": "558896014831@s.whatsapp.net",
-        "Golds": 90,
-        "data": "06/01/25",
+        "Golds": 190,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
-      },
-      {
-        "id": "557499499232@s.whatsapp.net",
-        "Golds": 98,
-        "data": "04/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "556696095061@s.whatsapp.net",
-        "Golds": 130,
-        "data": "02/01/25",
-        "emp_G": [],
-        "emp_A": [
-          {
-            "id": "558499039419@s.whatsapp.net",
-            "Golds": 27,
-            "Tempo": 0
-          }
-        ]
       },
       {
         "id": "556699958806@s.whatsapp.net",
-        "Golds": 0,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "559193873908@s.whatsapp.net",
-        "Golds": 100,
-        "data": "06/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "559984667013@s.whatsapp.net",
-        "Golds": 2863,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5513991601884@s.whatsapp.net",
-        "Golds": 135,
-        "data": "05/01/25",
-        "emp_G": [],
+        "Golds": 386,
+        "data": "17/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 274,
+            "Tempo": 1737157050,
+            "cobrou": 0
+          }
+        ],
         "emp_A": []
       },
       {
         "id": "5512996519674@s.whatsapp.net",
-        "Golds": 138,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "559182913911@s.whatsapp.net",
-        "Golds": 85,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": [
+        "Golds": 1167,
+        "data": "17/01/25",
+        "emp_G": [
           {
             "id": "558499039419@s.whatsapp.net",
-            "Golds": 40,
-            "Tempo": 0
+            "Golds": 1000,
+            "Tempo": 1737168213,
+            "cobrou": 0
           }
-        ]
-      },
-      {
-        "id": "553298579140@s.whatsapp.net",
-        "Golds": 140,
-        "data": "07/01/25",
-        "emp_G": [],
+        ],
         "emp_A": []
       },
       {
         "id": "556599991077@s.whatsapp.net",
-        "Golds": 20,
-        "data": 0,
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "556298427218@s.whatsapp.net",
-        "Golds": 180,
-        "data": "06/01/25",
+        "Golds": 40,
+        "data": "09/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "553171544140@s.whatsapp.net",
-        "Golds": 21,
-        "data": "29/12/24",
+        "Golds": 61,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "556999809552@s.whatsapp.net",
-        "Golds": 72,
-        "data": "06/01/25",
+        "Golds": 182,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "559591331319@s.whatsapp.net",
-        "Golds": 79,
-        "data": "06/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "556281738912@s.whatsapp.net",
-        "Golds": 20,
-        "data": "04/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5512996213220@s.whatsapp.net",
-        "Golds": 88,
-        "data": "03/01/25",
+        "Golds": 119,
+        "data": "15/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "5511945566211@s.whatsapp.net",
-        "Golds": 93,
-        "data": "07/01/25",
+        "Golds": 99,
+        "data": "17/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "554196665919@s.whatsapp.net",
-        "Golds": 124,
-        "data": "06/01/25",
-        "emp_G": [],
+        "Golds": 104,
+        "data": "16/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 2502,
+            "Tempo": 1737111404,
+            "cobrou": 0
+          }
+        ],
         "emp_A": []
       },
       {
         "id": "558399168409@s.whatsapp.net",
-        "Golds": 37,
-        "data": "07/01/25",
+        "Golds": 1372,
+        "data": "17/01/25",
         "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5518996184098@s.whatsapp.net",
-        "Golds": 434,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 88,
+            "Tempo": 0
+          }
+        ]
       },
       {
         "id": "559784459390@s.whatsapp.net",
-        "Golds": 90,
-        "data": "07/01/25",
+        "Golds": 141,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
@@ -7900,120 +7816,407 @@
       },
       {
         "id": "558499421883@s.whatsapp.net",
-        "Golds": 7102,
-        "data": "07/01/25",
+        "Golds": 149,
+        "data": "17/01/25",
         "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5518997254513@s.whatsapp.net",
-        "Golds": 76,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "559182478038@s.whatsapp.net",
-        "Golds": 291,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5512991005613@s.whatsapp.net",
-        "Golds": 20,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1128,
+            "Tempo": 0
+          }
+        ]
       },
       {
         "id": "559999780013@s.whatsapp.net",
-        "Golds": 171,
-        "data": "07/01/25",
+        "Golds": 985,
+        "data": "17/01/25",
         "emp_G": [],
-        "emp_A": []
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1454,
+            "Tempo": 0
+          }
+        ]
       },
       {
         "id": "553488542270@s.whatsapp.net",
-        "Golds": 20,
-        "data": "03/01/25",
+        "Golds": 50,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "559992101740@s.whatsapp.net",
-        "Golds": 25,
-        "data": "06/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "5521968764715@s.whatsapp.net",
-        "Golds": 80,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "556193129452@s.whatsapp.net",
-        "Golds": 25,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "553397051170@s.whatsapp.net",
-        "Golds": 20,
-        "data": "05/01/25",
+        "Golds": 89,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "5515981112358@s.whatsapp.net",
-        "Golds": 31,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "559185363096@s.whatsapp.net",
-        "Golds": 20,
-        "data": "07/01/25",
+        "Golds": 236,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "5521995556137@s.whatsapp.net",
-        "Golds": 20,
-        "data": "07/01/25",
+        "Golds": 256,
+        "data": "17/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "556593310980@s.whatsapp.net",
-        "Golds": 20,
-        "data": "07/01/25",
-        "emp_G": [],
-        "emp_A": []
-      },
-      {
-        "id": "556993343949@s.whatsapp.net",
-        "Golds": 20,
-        "data": "07/01/25",
+        "Golds": 134,
+        "data": "16/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "559185630873@s.whatsapp.net",
+        "Golds": 102,
+        "data": "12/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "554196206171@s.whatsapp.net",
+        "Golds": 0,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 56,
+            "Tempo": 0
+          }
+        ]
+      },
+      {
+        "id": "553196361764@s.whatsapp.net",
+        "Golds": 91,
+        "data": "15/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553192335510@s.whatsapp.net",
+        "Golds": 139,
+        "data": "16/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553182332707@s.whatsapp.net",
+        "Golds": 38,
+        "data": "10/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553198120473@s.whatsapp.net",
+        "Golds": 0,
+        "data": 0,
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553299702270@s.whatsapp.net",
         "Golds": 20,
-        "data": "07/01/25",
+        "data": "08/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553898475261@s.whatsapp.net",
+        "Golds": 10,
+        "data": 0,
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5513982025273@s.whatsapp.net",
+        "Golds": 26,
+        "data": "11/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "558576066235@s.whatsapp.net",
+        "Golds": 120,
+        "data": "15/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "554899947556@s.whatsapp.net",
+        "Golds": 135,
+        "data": "12/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556182178494@s.whatsapp.net",
+        "Golds": 20,
+        "data": "14/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556299254104@s.whatsapp.net",
+        "Golds": 139,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "559870269460@s.whatsapp.net",
+        "Golds": 20,
+        "data": "09/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5511978173326@s.whatsapp.net",
+        "Golds": 13,
+        "data": "09/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556385171326@s.whatsapp.net",
+        "Golds": 60,
+        "data": "15/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553195902872@s.whatsapp.net",
+        "Golds": 51,
+        "data": "13/01/25",
         "emp_G": [],
         "emp_A": []
       },
       {
         "id": "5511943900540@s.whatsapp.net",
+        "Golds": 159,
+        "data": "12/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5518981848480@s.whatsapp.net",
+        "Golds": 181,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "559193593655@s.whatsapp.net",
+        "Golds": 50,
+        "data": "10/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5511917258465@s.whatsapp.net",
         "Golds": 20,
-        "data": "07/01/25",
+        "data": "10/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "558699679287@s.whatsapp.net",
+        "Golds": 41,
+        "data": "16/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "559984667013@s.whatsapp.net",
+        "Golds": 206,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5512996388734@s.whatsapp.net",
+        "Golds": 432,
+        "data": "16/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556193129452@s.whatsapp.net",
+        "Golds": 240,
+        "data": "16/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553399395857@s.whatsapp.net",
+        "Golds": 713,
+        "data": "16/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1194,
+            "Tempo": 1737048893,
+            "cobrou": 0
+          }
+        ],
+        "emp_A": []
+      },
+      {
+        "id": "558195870551@s.whatsapp.net",
+        "Golds": 145,
+        "data": "14/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "558694743257@s.whatsapp.net",
+        "Golds": 0,
+        "data": "16/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1245,
+            "Tempo": 1737167831,
+            "cobrou": 0
+          }
+        ],
+        "emp_A": []
+      },
+      {
+        "id": "558187925820@s.whatsapp.net",
+        "Golds": 20,
+        "data": "13/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "558499039419@s.whatsapp.net",
+        "Golds": 0,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5511913142993@s.whatsapp.net",
+        "Golds": 3442,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553298686473@s.whatsapp.net",
+        "Golds": 0,
+        "data": 0,
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "553187492839@s.whatsapp.net",
+        "Golds": 30,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "558296685911@s.whatsapp.net",
+        "Golds": 129,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "5515997663699@s.whatsapp.net",
+        "Golds": 40,
+        "data": "17/01/25",
+        "emp_G": [],
+        "emp_A": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 1245,
+            "Tempo": 0
+          }
+        ]
+      },
+      {
+        "id": "558596709508@s.whatsapp.net",
+        "Golds": 0,
+        "data": 0,
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556384650588@s.whatsapp.net",
+        "Golds": 174,
+        "data": "17/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 134,
+            "Tempo": 1737157674,
+            "cobrou": 0
+          }
+        ],
+        "emp_A": []
+      },
+      {
+        "id": "5511917742243@s.whatsapp.net",
+        "Golds": 1077,
+        "data": "17/01/25",
+        "emp_G": [
+          {
+            "id": "558499039419@s.whatsapp.net",
+            "Golds": 2672,
+            "Tempo": 1737159788,
+            "cobrou": 0
+          }
+        ],
+        "emp_A": []
+      }
+    ]
+  },
+  {
+    "grupo": "120363387798017745@g.us",
+    "usus": [
+      {
+        "id": "556298197422@s.whatsapp.net",
+        "Golds": 1129,
+        "data": "16/01/25",
+        "emp_G": [],
+        "emp_A": [
+          {
+            "id": "556298880599@s.whatsapp.net",
+            "Golds": 20,
+            "Tempo": 0
+          }
+        ]
+      },
+      {
+        "id": "556298162482@s.whatsapp.net",
+        "Golds": 417,
+        "data": "15/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556298880599@s.whatsapp.net",
+        "Golds": 2189,
+        "data": "15/01/25",
+        "emp_G": [],
+        "emp_A": []
+      },
+      {
+        "id": "556298783302@s.whatsapp.net",
+        "Golds": 23,
+        "data": "15/01/25",
         "emp_G": [],
         "emp_A": []
       }
