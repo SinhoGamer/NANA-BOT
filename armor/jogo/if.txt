@@ -1,0 +1,94 @@
+//===================================\\
+
+		//JOGO DO ANAGRAM
+    if (isGroup && fs.existsSync(`./armor/anagrama-${from}.json`)) {
+      let dataAnagrama;
+  
+      try {
+          dataAnagrama = JSON.parse(fs.readFileSync(`./armor/anagrama-${from}.json`));
+      } catch (error) {
+          console.error("Erro ao ler o arquivo JSON:", error);
+          return reply("Erro ao carregar o jogo do anagrama. Tente novamente.");
+      }
+  
+      if (budy.slice(0, 4).toUpperCase() === dataAnagrama.original.slice(0, 4).toUpperCase() && budy.toUpperCase() !== dataAnagrama.original) {
+          return reply("Está perto!");
+      }
+  
+      xp = Math.floor(Math.random() * 14) + 3000;
+  
+      if (budy.toUpperCase() === dataAnagrama.original) {
+          conn.sendMessage(
+              from,
+              {
+                  text: `Parabéns ${pushname} 🥳 você ganhou o jogo!\nPalavra: ${dataAnagrama.original}\nIniciando o próximo jogo em 5 segundos...`,
+              },
+              { mentionedJid: [sender] }
+          );
+  
+          fs.unlinkSync(`./armor/anagrama-${from}.json`);
+  
+          setTimeout(async () => {
+              if (!palavrasANA || palavrasANA.length === 0) {
+                  console.error("Erro: palavrasANA não está definido ou está vazio.");
+                  return reply("Erro ao iniciar o próximo jogo: nenhuma palavra disponível.");
+              }
+  
+              const novaPalavra = palavrasANA[Math.floor(Math.random() * palavrasANA.length)];
+  
+              try {
+                  fs.writeFileSync(`./armor/anagrama-${from}.json`, JSON.stringify(novaPalavra));
+              } catch (error) {
+                  console.error("Erro ao escrever o arquivo JSON:", error);
+                  return reply("Erro ao iniciar o próximo jogo. Tente novamente.");
+              }
+  
+              conn.sendMessage(
+                  from,
+                  {
+                      text: `
+  ╭─────≽「 👾 ANAGRAMA 👾 」
+  │➽ DESCUBRA A PALAVRA
+  │➽ ANAGRAMA: ${novaPalavra.embaralhada}
+  │➽ DICA: ${novaPalavra.dica}
+  ╰────────────────────────
+                      `,
+                  }
+              );
+          }, 5000);
+      }
+  }
+      
+      //========================================\\
+      
+      
+          //JOGO QUIZ
+      if(isGroup && fs.existsSync(`./armor/quizanim-${from}.json`)){
+      let dataAnagramaa = JSON.parse(fs.readFileSync(`./armor/quizanim-${from}.json`))
+      if(budy.slice(0,4).toUpperCase() == dataAnagramaa.original.slice(0,4).toUpperCase() && budy.toUpperCase() != dataAnagramaa.original) return reply('está perto')
+      if(budy.toUpperCase() == dataAnagramaa.original) { 
+      conn.sendMessage(from,{text: `Parabéns ${pushname} você acertou\n${dataAnagramaa.original}\nProximo em 5 segundos...`}, {"mentionedJid": [sender]}), fs.unlinkSync(`./armor/quizanim-${from}.json`)		
+      setTimeout(async() => {
+      fs.writeFileSync(`./armor/quizanim-${from}.json`, `${JSON.stringify(quizanimais[Math.floor(Math.random() * quizanimais.length)])}`)
+      let dataAnagrama2 = JSON.parse(fs.readFileSync(`./armor/quizanim-${from}.json`))
+      imagemtexto =`「 Show do Milhão 」`
+      conn.sendMessage(from, {image: {url: dataAnagrama2.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+      }, 5000)
+      }
+      }
+      
+      if(isGroup && fs.existsSync(`./armor/showdoM-${from}.json`)){
+      let showdoMJ = JSON.parse(fs.readFileSync(`./armor/showdoM-${from}.json`))
+      if(budy.slice(0,4).toUpperCase() == showdoMJ.original.slice(0,4).toUpperCase() && budy.toUpperCase() != showdoMJ.original) return reply('está perto')
+      if(budy.toUpperCase() == showdoMJ.original) { 
+      conn.sendMessage(from,{text: `Boa Usuário @${sender.split("@")[0]},voce acertou a resposta: \n${showdoMJ.original}\nProximo em 5 segundos...`}, {"mentionedJid": [sender]}), fs.unlinkSync(`./armor/showdoM-${from}.json`)		
+      setTimeout(async() => {
+      fs.writeFileSync(`./armor/showdoM-${from}.json`, `${JSON.stringify(showdomilhao[Math.floor(Math.random() * showdomilhao.length)])}`)
+      let showdoMJ2 = JSON.parse(fs.readFileSync(`./armor/showdoM-${from}.json`))
+      imagemtexto =`「 Show do Milhão 」`
+      conn.sendMessage(from, {image: {url: showdoMJ2.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+      }, 5000)
+      }
+      }
+
+      //===============================================\\

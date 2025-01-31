@@ -99,6 +99,11 @@ embaralhada: 'ÇNÃFRA',
 dica: 'PAÍS'
 },
 {
+    original: 'RUSSIA',
+    embaralhada: 'ASSIRU',
+    dica: 'PAÍS'
+    },
+{
 original: 'BAZUKA',
 embaralhada: 'KAZBAU',
 dica: 'ARMA'
@@ -143,6 +148,11 @@ original: 'MIOJO',
 embaralhada: 'IJOMO',
 dica: 'COMIDA'
 },
+{
+  original: 'LULA',
+    embaralhada: 'ALUL',
+    dica: 'LADRÃO'
+    },
 {
 original: 'COXINHA',
 embaralhada: 'IONCXHA',
@@ -382,7 +392,247 @@ dica: 'O QUE TE FALTA'
 original: 'MELANCIA',
 embaralhada: 'CAILAMEN',
 dica: 'ALIMENTO'
-}
+},
+{
+    original: 'BOLSONARO',
+    embaralhada: 'NOBORALOS',
+    dica: 'MITO'
+},
+{
+    original: 'QUIROMANCIA',
+    embaralhada: 'CIOMURAQANI',
+    dica: 'ARTE DE LER MÃOS'
+},
+{
+    original: 'HIPOPÓTAMO',
+    embaralhada: 'MOHIPPÓTAO',
+    dica: 'ANIMAL'
+},
+{
+    original: 'ESTRATÉGIA',
+    embaralhada: 'GÉTASERÁTI',
+    dica: 'PLANEJAMENTO'
+},
+{
+    original: 'MICROSCÓPIO',
+    embaralhada: 'CÓSIMPOICOR',
+    dica: 'INSTRUMENTO'
+},
+{
+    original: 'ESPECTADOR',
+    embaralhada: 'DORSPECEAT',
+    dica: 'PESSOA QUE ASSISTE'
+},
+{
+    original: 'HIDROGÊNIO',
+    embaralhada: 'OÍDRGÊNHIO',
+    dica: 'ELEMENTO QUÍMICO'
+},
+{
+    original: 'CATASTROFICAMENTE',
+    embaralhada: 'NTCÉTAROIFCASEMTA',
+    dica: 'DE MANEIRA DESASTROSA'
+},
+{
+    original: 'ANFITRIÃO',
+    embaralhada: 'FÃNIAOTIR',
+    dica: 'QUEM RECEBE'
+},
+{
+    original: 'FILOSOFIA',
+    embaralhada: 'IFILOSOAF',
+    dica: 'ESTUDO DO SABER'
+},
+{
+    original: 'TRICOLOR',
+    embaralhada: 'ROCRILOT',
+    dica: 'TIME DE FUTEBOL'
+},
+{
+    original: 'MONOPÓLIO',
+    embaralhada: 'OPIMLÓONO',
+    dica: 'DOMÍNIO EXCLUSIVO'
+},
+{
+    original: 'METEORITO',
+    embaralhada: 'ETORMITEO',
+    dica: 'ASTRONOMIA'
+},
+{
+    original: 'PARALELEPÍPEDO',
+    embaralhada: 'PÉDAPOLARLEILE',
+    dica: 'OBJETO'
+},
+{
+    original: 'CONGELAMENTO',
+    embaralhada: 'NTOELOCMGEN',
+    dica: 'PROCESSO DE RESFRIAR'
+},
+{
+    original: 'SIGNIFICADO',
+    embaralhada: 'CIDSIGNIAFO',
+    dica: 'O QUE ALGO REPRESENTA'
+},
+{
+    original: 'REVOLUCIONÁRIO',
+    embaralhada: 'AIRVOLNÚOREICO',
+    dica: 'PESSOA QUE MUDA O MUNDO'
+},
+{
+    original: 'PROPORCIONAL',
+    embaralhada: 'NCOLARPORIPO',
+    dica: 'EQUIVALENTE'
+},
+{
+    original: 'FOTOSSÍNTESE',
+    embaralhada: 'ESSTOÍNFESO',
+    dica: 'PROCESSO DAS PLANTAS'
+},
+{
+    original: 'DESENVOLVIMENTO',
+    embaralhada: 'LOMESVEINDTENO',
+    dica: 'CRESCIMENTO'
+},
+{
+    original: 'ELECTRODOMÉSTICO',
+    embaralhada: 'TÉMRODLÉSOCEICOT',
+    dica: 'OBJETO DA COZINHA'
+},
+{
+    original: 'AUTOSSUFICIÊNCIA',
+    embaralhada: 'UFÍAASCIUSOÊENTC',
+    dica: 'CAPACIDADE DE SE VIRAR SOZINHO'
+},
+{
+    original: 'INCONSTITUCIONAL',
+    embaralhada: 'ICONUONLCSAIITTT',
+    dica: 'CONTRA AS LEIS'
+},
+{
+    original: 'PSICANÁLISE',
+    embaralhada: 'SLEIPICANÁS',
+    dica: 'ESTUDO DA MENTE'
+},
+{
+    original: 'TERMODINÂMICA',
+    embaralhada: 'ACIDNAMÔRITE',
+    dica: 'RAMO DA FÍSICA'
+},
+{
+    original: 'ULTRAPASSAGEM',
+    embaralhada: 'GARSAMEUPALTS',
+    dica: 'ATO DE PASSAR ALGUÉM'
+},
+{
+    original: 'PARALELOGRAMO',
+    embaralhada: 'ARALPLOGMOEAL',
+    dica: 'FORMA GEOMÉTRICA'
+},
+{
+    original: 'ANTICONSTITUCIONALÍSSIMO',
+    embaralhada: 'OCSTTNTINIÍÇISMOALISANOIA',
+    dica: 'MAIOR PALAVRA DA LÍNGUA PORTUGUESA'
+},
+{
+    original: 'CRIPTOGRAFIA',
+    embaralhada: 'RCGAFIIPORTA',
+    dica: 'SEGURANÇA DE DADOS'
+},
+{
+    original: 'ASTRONÁUTICA',
+    embaralhada: 'NUTÁSCOATRIA',
+    dica: 'ESTUDO DO ESPAÇO'
+},
+{
+    original: 'IMUNODEFICIÊNCIA',
+    embaralhada: 'MENUFIÊIDNÇOIECIA',
+    dica: 'CONDIÇÃO MÉDICA'
+},
+{
+    original: 'BIODEGRADÁVEL',
+    embaralhada: 'LDRGÉBIVAOADE',
+    dica: 'AMIGO DO MEIO AMBIENTE'
+},
+{
+    original: 'HIPERTENSÃO',
+    embaralhada: 'SHIOERPÃNET',
+    dica: 'CONDIÇÃO MÉDICA'
+},
+{
+    original: 'OTORRINOLARINGOLOGIA',
+    embaralhada: 'RNIALIGOTLROAOINGORO',
+    dica: 'ÁREA DA MEDICINA'
+},
+{
+    original: 'PROCRASTINAÇÃO',
+    embaralhada: 'NORTARÇACOIPSA',
+    dica: 'ATO DE ADIAR'
+},
+{
+    original: 'ANIVERSARIANTE',
+    embaralhada: 'RISREVAIANEANT',
+    dica: 'PESSOA EM FESTA'
+},
+{
+    original: 'MELANCÓLICO',
+    embaralhada: 'ILCMEOCÓLAN',
+    dica: 'ESTADO EMOCIONAL'
+},
+{
+    original: 'GEOPOLÍTICA',
+    embaralhada: 'LIGEOOPÁTIC',
+    dica: 'ESTUDO INTERNACIONAL'
+},
+{
+    original: 'MICROORGANISMOS',
+    embaralhada: 'ARCIOSMORNGMIO',
+    dica: 'VIDA INVISÍVEL'
+},
+{
+    original: 'RESPONSABILIDADE',
+    embaralhada: 'LASBIDADIREESNPO',
+    dica: 'QUALIDADE PESSOAL'
+},
+{
+    original: 'MANIPULAÇÃO',
+    embaralhada: 'PINALUMOÇAIA',
+    dica: 'CONTROLE EXCESSIVO'
+},
+{
+    original: 'CONSTITUIÇÃO',
+    embaralhada: 'UCITÍOSNOCÃO',
+    dica: 'DOCUMENTO OFICIAL'
+},
+{
+    original: 'TRANSCENDENTE',
+    embaralhada: 'CDRNSTTEEAENN',
+    dica: 'ALÉM DO NORMAL'
+},
+{
+    original: 'SUBDESENVOLVIDO',
+    embaralhada: 'SDIVDUBOSENLIOE',
+    dica: 'ATRASADO'
+},
+{
+    original: 'DICIONÁRIO',
+    embaralhada: 'RÍDICANOOI',
+    dica: 'LIVRO DE PALAVRAS'
+},
+{
+    original: 'AUTOSSUFICIENTE',
+    embaralhada: 'CAOFSUIESTETNU',
+    dica: 'AUTONOMIA'
+},
+{
+    original: 'CONGELADOR',
+    embaralhada: 'OOCELGADNR',
+    dica: 'OBJETO DE COZINHA'
+},
+{
+    original: 'EVOLUÇÃO',
+    embaralhada: 'UÇVEOIOL',
+    dica: 'MUDANÇA AO LONGO DO TEMPO'
+},
 ]	
 
 //======== QUIZ DE ANIMAIS =======\\
@@ -496,7 +746,6 @@ original: 'CAPIVARA',
 foto: 'https://telegra.ph/file/54f20cbd80737fe45a284.jpg'
 }
 ]
-
 
 module.exports = {
 palavrasANA, 

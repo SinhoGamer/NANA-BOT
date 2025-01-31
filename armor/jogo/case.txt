@@ -1,0 +1,113 @@
+case 'showdom':
+case 'showdomilhao':  
+if(!isGroup) return reply(Res_SoGrupo)
+const showdomm = Math.floor(Math.random() * showdomilhao.length)
+if(!isGroupAdmins) return reply(Res_SoAdm)
+if(!q) return reply('use 1 para ativar o jogo \npara desativar use showdomilhao 0')
+if(args.join(' ') === '1') {
+if(fs.existsSync(`./armor/showdoM-${from}.json`)) {
+let dataAnagrama2 = JSON.parse(fs.readFileSync(`./armor/showdoM-${from}.json`))
+imagemtexto =`「 Show do Milhão 」`
+conn.sendMessage(from, {image: {url: dataAnagrama2.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+} else {
+fs.writeFileSync(`./armor/showdoM-${from}.json`, `${JSON.stringify(showdomilhao[showdomm])}`)
+setTimeout(async() => {
+imagemtexto =`「 Show do Milhão 」`
+let showdoMJ3 = JSON.parse(fs.readFileSync(`./armor/showdoM-${from}.json`))
+conn.sendMessage(from, {image: {url: showdoMJ3.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+}, 2000)
+}
+} else if(args.join(' ') ==='0') {
+if(!fs.existsSync(`./armor/showdoM-${from}.json`)) return reply('Não tem como desativar o jogo pôs ele não foi ativado')
+fs.unlinkSync(`./armor/showdoM-${from}.json`)
+reply("Desativado com sucesso")
+}
+break
+
+case 'quizanimais':
+if(!isGroup) return reply(Res_SoGrupo)
+const animaisquiz = Math.floor(Math.random() * quizanimais.length)
+if(!isGroupAdmins) return reply(Res_SoAdm)
+if(!q) return reply('use 1 para ativar o jogo \npara desativar use quizanimais 0')
+if(args.join(' ') === '1') {
+if(fs.existsSync(`./armor/quizanim-${from}.json`)) {
+let dataAnagrama2 = JSON.parse(fs.readFileSync(`./armor/quizanim-${from}.json`))
+imagemtexto =`                             「❓Quiz❓」`
+conn.sendMessage(from, {image: {url: dataAnagrama2.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+} else {
+fs.writeFileSync(`./armor/quizanim-${from}.json`, `${JSON.stringify(quizanimais[animaisquiz])}`)
+imagemtexto =`                             「❓Quiz❓」`
+conn.sendMessage(from, {image: {url: dataAnagrama2.foto}, caption: imagemtexto, thumbnail: blalogoofc}, {quoted: selo})
+}
+} else if(args.join(' ') ==='0') {
+if(!fs.existsSync(`./armor/quizanim-${from}.json`)) return reply('Não tem como desativar o jogo pôs ele não foi ativado')
+fs.unlinkSync(`./armor/quizanim-${from}.json`)
+reply("Desativado com sucesso")
+}
+break
+
+case "anagrama":
+    if (!isGroup) return reply(Res_SoGrupo);
+
+    if (!palavrasANA || palavrasANA.length === 0) {
+        console.error("Erro: palavrasANA não está definido ou está vazio.");
+        return reply("Erro: nenhuma palavra disponível para o jogo do anagrama.");
+    }
+
+    const anaAleatorio = Math.floor(Math.random() * palavrasANA.length);
+
+    if (!isGroupAdmins) return reply(Res_SoAdm);
+
+    if (!q) return reply("Use 1 para ativar o jogo do anagrama.\nPara desativar, use: anagrama 0.");
+
+    if (args.join(" ") === "1") {
+        if (fs.existsSync(`./armor/anagrama-${from}.json`)) {
+            let dataAnagrama2;
+
+            try {
+                dataAnagrama2 = JSON.parse(fs.readFileSync(`./armor/anagrama-${from}.json`));
+            } catch (error) {
+                console.error("Erro ao ler o arquivo JSON:", error);
+                return reply("Erro ao carregar o jogo do anagrama.");
+            }
+
+            return reply(`O jogo já foi iniciado neste grupo:\nPalavra: ${dataAnagrama2.embaralhada}\nDica: ${dataAnagrama2.dica}`);
+        } else {
+            const palavraSelecionada = palavrasANA[anaAleatorio];
+
+            try {
+                fs.writeFileSync(`./armor/anagrama-${from}.json`, JSON.stringify(palavraSelecionada));
+            } catch (error) {
+                console.error("Erro ao escrever o arquivo JSON:", error);
+                return reply("Erro ao iniciar o jogo do anagrama. Tente novamente.");
+            }
+
+            conn.sendMessage(
+                from,
+                {
+                    text: `
+╭─────≽「 👾 ANAGRAMA 👾 」
+│➽ DESCUBRA A PALAVRA
+│➽ ANAGRAMA: ${palavraSelecionada.embaralhada}
+│➽ DICA: ${palavraSelecionada.dica}
+╰────────────────────────
+                    `,
+                }
+            );
+        }
+    } else if (args.join(" ") === "0") {
+        if (!fs.existsSync(`./armor/anagrama-${from}.json`)) {
+            return reply("Não tem como desativar o jogo do anagrama, pois ele não foi ativado.");
+        }
+
+        fs.unlinkSync(`./armor/anagrama-${from}.json`);
+        reply("Jogo do anagrama desativado com sucesso.");
+    }
+    break;
+
+case 'revelaranimal':
+case 'revelaanimal':  
+if(!isGroupAdmins) return reply(Res_SoAdm)
+let dataAnagramaa = JSON.parse(fs.readFileSync(`./armor/quizanim-${from}.json`))
+reply(`${dataAnagramaa.original}`)
+break

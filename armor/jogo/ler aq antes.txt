@@ -1,0 +1,1 @@
+jogos.js e showmilhao cole na pasta armor/jogo ou o caminho q vc quiser alternando a const

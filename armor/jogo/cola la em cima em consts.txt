@@ -1,0 +1,3 @@
+cola la em cima em consts
+
+const { palavrasANA, quizanimais, showdomilhao } = require('./armor/jogo/jogos.js');
